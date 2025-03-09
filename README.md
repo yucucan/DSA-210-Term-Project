@@ -1,2 +1,4 @@
 # DSA-210-Term-Project
 Sabanci University 2025 Spring term DSA 210 Lecture term project
+
+The topic of this project will be mainly focused on the preferences of the fans of anime. In the past anime was seen as a niche choice of entertainment. But with unique art style and stories, anime quickly became an alternative entertainment choice to western options such as series and movies. Anime Market size was valued at USD 31.41 Billion in 2023 and is poised to grow from USD 34.49 Billion in 2024 to USD 72.86 Billion by 2032, growing at a CAGR of 9.8% during the forecast period (2025-2032). Amid this rapid rise, it became even more important to understand the market preferences. This project will try to find the main indicatives of anime fans using data from popular anime websites such as myanimelist and anilist and also data from IMF, World Bank and etc.
