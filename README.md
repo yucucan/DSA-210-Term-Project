@@ -14,6 +14,9 @@ There are currently over 10000 animes currently on the internet. Just the curren
 Main source will be the datasets I found in kaggle about anime. If possible data scrapping will be used to find more recent data.
 Addition data like GDP per capita and etc. will be found from reliable international sources like IMF and World Bank
 
+Dataset Links:
+https://www.kaggle.com/datasets/azathoth42/myanimelist
+
 ## **Description of the Dataset**
 
 The dataset for this project consists of data from online resources. Here is what I will try to find and implement:
