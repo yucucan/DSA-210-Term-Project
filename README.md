@@ -17,13 +17,13 @@ Addition data like GDP per capita and etc. will be found from reliable internati
 Dataset Links:
 https://www.kaggle.com/datasets/azathoth42/myanimelist
 https://www.kaggle.com/datasets/mathurinache/world-happiness-report/data
-https://data.worldbank.org/indicator   // Way too many to put one by one
+https://data.worldbank.org/indicator (extensive global metrics)
 
 ## **Description of the Dataset**
 
 The dataset for this project consists of data from online resources. Here is what I will try to find and implement:
 
-- From kaggle - azathoth42/myanimelist 
+### **From kaggle - azathoth42/myanimelist** 
 - **Gender**: The gender of the user
 - **Birth Date**: The user's birth year
 - **Join Date**: The year user joined
@@ -38,10 +38,10 @@ The dataset for this project consists of data from online resources. Here is wha
 - **User Watched Episodes**: Amount of episodes watched by the user
 - **User Rewatched Episodes**: Amount of episodes rewatched by the user
 
-- From kaggle - mathurinache/world-happiness-report 
+### **From kaggle - mathurinache/world-happiness-report** 
 - **Happiness Score**: The happiness score of the country from the happiness index
 
-- From World Bank
+### **From World Bank**
 - **Agricultural land (% of land area)**: Percentage of a country's land used for farming or agriculture
 - **Forest area (% of land area)**: Percentage of land area covered by forests
 - **Rural population (% of total population)**: Share of the total population living in rural areas
