@@ -98,11 +98,9 @@ The dataset for this project consists of data from online resources. Here is wha
 - **School enrollment, primary and secondary (gross), gender parity index (GPI)**: Ratio of girls to boys enrolled in primary and secondary school
 - **Refugee population by country or territory of asylum**: Number of refugees hosted by the country
 
-## **Conclusion**
+## **Hypotheses**
 
-By the end of this project, I hope to answer the following questions:
-
-- Which factors most influence an anime's popularity?  
-- Can wwe guess how succesfull an anime is going to be before airing?  
+- **H1**: Users with a higher 'Mean Score' tend to have higher engagement metrics, such as a larger number of 'User Completed' anime and more 'User Days Spent Watching', suggesting satisfaction leads to deeper engagement
+- **H2**: Users from countries with higher 'GDP per capita (current US$)' tend to watch more anime ('User Completed', 'User Watched Episodes') and potentially have higher 'Mean Scores', possibly reflecting better access or more leisure time/income. 
 - Are myths like romance is more popular among females and action is more popular among males realy true??  
 - Can we apply these insights to create an anime recommendation AI?
