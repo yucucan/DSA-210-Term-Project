@@ -101,6 +101,6 @@ The dataset for this project consists of data from online resources. Here is wha
 ## **Hypotheses**
 
 - **H1**: Users with a higher 'Mean Score' tend to have higher engagement metrics, such as a larger number of 'User Completed' anime and more 'User Days Spent Watching', suggesting satisfaction leads to deeper engagement
-- **H2**: Users from countries with higher 'GDP per capita (current US$)' tend to watch more anime ('User Completed', 'User Watched Episodes') and potentially have higher 'Mean Scores', possibly reflecting better access or more leisure time/income. 
-- Are myths like romance is more popular among females and action is more popular among males realy true??  
-- Can we apply these insights to create an anime recommendation AI?
+- **H2**: Users from countries with higher 'GDP per capita (current US$)' tend to watch more anime ('User Completed', 'User Watched Episodes') and potentially have higher 'Mean Scores', possibly reflecting better access or more leisure time/income.
+- **H3**: Higher 'Fixed broadband subscriptions', 'Mobile cellular subscriptions', or 'Secure Internet servers (per 1 million people)' correlate with higher 'User Completed' counts for users in that country.
+- **H4**: Higher national happiness correlates with higher average 'User Mean Score' from users in that country.
