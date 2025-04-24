@@ -104,3 +104,4 @@ The dataset for this project consists of data from online resources. Here is wha
 - **H2**: Users from countries with higher 'GDP per capita (current US$)' tend to watch more anime ('User Completed', 'User Watched Episodes') and potentially have higher 'Mean Scores', possibly reflecting better access or more leisure time/income.
 - **H3**: Higher 'Fixed broadband subscriptions', 'Mobile cellular subscriptions', or 'Secure Internet servers (per 1 million people)' correlate with higher 'User Completed' counts for users in that country.
 - **H4**: Higher national happiness correlates with higher average 'User Mean Score' from users in that country.
+- **H5**: Male and female users show differences in their anime watching habits, such as the total time spent watching anime or the average scores they give to anime.
