@@ -105,3 +105,5 @@ The dataset for this project consists of data from online resources. Here is wha
 - **H3**: Higher 'Fixed broadband subscriptions', 'Mobile cellular subscriptions', or 'Secure Internet servers (per 1 million people)' correlate with higher 'User Completed' counts for users in that country.
 - **H4**: Higher national happiness correlates with higher average 'User Mean Score' from users in that country.
 - **H5**: Male and female users show differences in their anime watching habits, such as the total time spent watching anime or the average scores they give to anime.
+- **H6**: Users from different regional indicators (e.g., Western Europe, Sub-Saharan Africa) exhibit distinct anime watching behaviors, such as mean score, watching time, or completed anime.
+- **H7**: There's a positive correlation between the number of anime a user is currently watching and the number they plan to watch, suggesting active viewers tend to plan future viewing.
