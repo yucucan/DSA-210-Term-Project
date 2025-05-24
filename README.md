@@ -3,7 +3,7 @@ Sabanci University 2025 Spring term DSA 210 Lecture term project
 
 ## **Project Idea**
 
-This project investigates the evolving preferences of anime fans within the rapidly expanding global anime market. Once a niche interest, anime has achieved mainstream popularity, driven by its distinctive art styles and compelling narratives. The anime market, valued at USD 31.41 billion in 2023 and projected to reach USD 72.86 billion by 2032 (CAGR 9.8%), necessitates a deeper understanding of consumer trends. This research will analyze data from platforms like MyAnimeList and AniList, alongside with relevant economic and demographic data from sources like the IMF and World Bank, to identify key drivers of anime fan preferences. Specifically, this study will explore how factors such as genre. popularity, location, age, and gdp per capita correlate with user ratings and engagement.
+This project investigates the evolving preferences of anime fans within the rapidly expanding global anime market. Once a niche interest, anime has achieved mainstream popularity, driven by its distinctive art styles and compelling narratives. The anime market, valued at USD 31.41 billion in 2023 and projected to reach USD 72.86 billion by 2032 (CAGR 9.8%), necessitates a deeper understanding of consumer trends. This research will analyze data from MyAnimeList, alongside with relevant economic and demographic data from World Bank, to identify key drivers of anime fan preferences. Specifically, this study will explore how factors such as gender. happiness score, country, age, and gdp per capita correlate with user ratings and engagement.
 
 ## **Motivation**
 
